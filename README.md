@@ -12,6 +12,7 @@ User (registered)
 - can view own results
 - can choose level (category) (?)
 - can view other users results (?)
+- can leave a feedback
 
 Administrator (User with special permissions)
 - add questions and answers
