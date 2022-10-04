@@ -1,6 +1,6 @@
 # English Tests
 
-Visitor (or other role name)
+Anonymous visitor
 - can view promo pages 
 - can register (name, email, password)
 
